@@ -1,2 +1,2 @@
 cmake_minimum_required(VERSION 2.6)
-	add_executable(logicalopop logicalop.cpp)
+	add_executable(logicalop logicalop.cpp)
